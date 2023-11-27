@@ -1,1 +1,1 @@
-# Argocd
+# Argocd Team
