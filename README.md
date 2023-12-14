@@ -8,7 +8,7 @@ Before running the app, ensure you have the required libraries installed. You ca
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Usage
 ### Load Dataset:
 The app loads a dataset from a CSV file named cleaned_dataset_with_incomegroup.csv. The data is sorted by the year and set as the index.
