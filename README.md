@@ -9,11 +9,11 @@ Before running the app, ensure you have the required libraries installed. You ca
 ```bash
 pip install -r requirements.txt
 
-Usage
-Load Dataset:
+## Usage
+### Load Dataset:
 The app loads a dataset from a CSV file named cleaned_dataset_with_incomegroup.csv. The data is sorted by the year and set as the index.
 
-Sidebar Configuration:
+### Sidebar Configuration:
 The sidebar allows you to configure the ARIMA model by selecting a country and adjusting the electrification level. These parameters influence the training of the ARIMA model.
 
 ARIMA Model Building:
