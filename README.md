@@ -37,9 +37,9 @@ Replace your_script_name.py with the filename of your script containing the Stre
 
 ## Dependencies
 * streamlit\
-pytz\
-pandas\
-numpy\
-matplotlib\
-statsmodels\
-scikit-learn
+* pytz\
+* pandas\
+* numpy\
+* matplotlib\
+* statsmodels\
+* scikit-learn
